@@ -1,0 +1,9 @@
+beautifulsoup4
+lxml
+bs4
+nltk
+pyenchant
+matplotlib
+pandas
+pillow
+wordcloud
