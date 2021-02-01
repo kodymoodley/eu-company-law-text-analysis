@@ -2,3 +2,6 @@
 *.csv
 *.pdf
 *.json
+*.dot
+*.png
+*.svg
